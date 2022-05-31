@@ -11,5 +11,3 @@ https://user-images.githubusercontent.com/88581684/171095639-31d85168-6e05-42e0-
 - Learning in practice how an ORM works;
 - Using Sequelize to perform operations on databases without using SQL;
 - Development of an application organized in the MVC model.
-
-##
