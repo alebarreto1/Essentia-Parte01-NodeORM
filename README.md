@@ -1,4 +1,4 @@
-# Essentia-Parte01-NodeORM
+# Parte01-NodeORM-Sequelize
 ##
 
 
