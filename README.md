@@ -1,4 +1,4 @@
-# Parte01-NodeORM-Sequelize
+# Parte01-NodeORM-Sequelize-MySQL
 ##
 
 
